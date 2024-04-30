@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manda\\source\\repos\\jwt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|c:\\users\\manda\\source\\repos\\jwt\\jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|solutionrelative:jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|c:\\users\\manda\\source\\repos\\jwt\\jwt\\controllers\\emptycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|solutionrelative:jwt\\controllers\\emptycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|c:\\users\\manda\\source\\repos\\jwt\\jwt\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|solutionrelative:jwt\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|c:\\users\\manda\\source\\repos\\jwt\\jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|solutionrelative:jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|c:\\users\\manda\\source\\repos\\jwt\\jwt\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|solutionrelative:jwt\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|c:\\users\\manda\\source\\repos\\jwt\\jwt\\jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22CDD05D-1390-495D-9464-9904223C5CC5}|jwt\\jwt.csproj|solutionrelative:jwt\\jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmptyController.cs",
+              "DocumentMoniker": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\Controllers\\EmptyController.cs",
+              "RelativeDocumentMoniker": "jwt\\Controllers\\EmptyController.cs",
+              "ToolTip": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\Controllers\\EmptyController.cs",
+              "RelativeToolTip": "jwt\\Controllers\\EmptyController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:04:32.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "jwt\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "jwt\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:05:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "jwt\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\Models\\Users.cs",
+              "RelativeToolTip": "jwt\\Models\\Users.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:03:38.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jwt.csproj",
+              "DocumentMoniker": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\jwt.csproj",
+              "RelativeDocumentMoniker": "jwt\\jwt.csproj",
+              "ToolTip": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\jwt.csproj",
+              "RelativeToolTip": "jwt\\jwt.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T23:02:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\appsettings.json",
+              "RelativeDocumentMoniker": "jwt\\appsettings.json",
+              "ToolTip": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\appsettings.json",
+              "RelativeToolTip": "jwt\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T22:57:57.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\Program.cs",
+              "RelativeDocumentMoniker": "jwt\\Program.cs",
+              "ToolTip": "C:\\Users\\manda\\source\\repos\\jwt\\jwt\\Program.cs",
+              "RelativeToolTip": "jwt\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:23:54.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1X2x3A7vcAsROktkM6tH21ocadJDVzdOvi8SY1A3Y/+2c+aiJIgsjjZhTjyhE6Gw0NMDW3E6ABz/xSgLjDfbrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manda\\source\\repos\\TestProject\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\manda\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\manda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\manda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
